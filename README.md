@@ -54,9 +54,17 @@ Each agent receives dynamic output from the previous agent — no static instruc
 
 Code is automatically validated by a QA agent before being returned
 
+## Below are screenshots of the Agentic Crew in Action.
+
+## Researcher visits the reference solution, extracts the core features 
+
 <img width="901" alt="Screenshot 2025-06-22 160110" src="https://github.com/user-attachments/assets/6fc2f478-d29e-491f-a7ef-c606edaa27e0" />
 
+## Software developer writing production grade full-stack code
+
 <img width="338" alt="Screenshot 2025-06-22 160752" src="https://github.com/user-attachments/assets/17adc47b-0229-4c36-8b22-f1aa43c9b16e" />
+
+## Senior reviewer reviewing the code against the requirement
 
 <img width="904" alt="Screenshot 2025-06-22 160412" src="https://github.com/user-attachments/assets/eabcbb10-0dc2-410b-8a09-40015e16acca" />
 
